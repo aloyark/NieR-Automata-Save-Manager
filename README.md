@@ -77,13 +77,13 @@ The settings and controls aren't needed but they're a nice thing to add. Plus It
 Save Folder (Practice Saves)
 ```
 
-<img style='float: left' src='readmestuff/ExampleSavesFilled.PNG'>
+<img style='float: left' src='readmestuff/ExampleSavesFilled.PNG'/>
 
 ```
 ImportBuffer Folder
 ```
 
-<img style='float: left' src='readmestuff/ExampleImportBuffer.PNG'>
+<img style='float: left' src='readmestuff/ExampleImportBuffer.PNG'/>
 
 ## What's functional?
 
@@ -91,13 +91,13 @@ Barely anything.
 
 This shit is fully functional
 
-<img style='float: left' src='readmestuff/Working.PNG'>
+<img style='float: left' src='readmestuff/Working.png'>
 
 Everything here is self explanatory 
 
 ## W.I.P
 
-<img style='float: left' src='readmestuff/TricklistKinda.PNG'>
+<img style='float: left' src='readmestuff/TricklistKinda.png'>
 
 #### Trick list
 
